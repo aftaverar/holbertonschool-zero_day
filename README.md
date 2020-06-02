@@ -1,1 +1,1 @@
-**Strong** This is my first file of the repository __Strong__
+**This is my first file of the repository**
