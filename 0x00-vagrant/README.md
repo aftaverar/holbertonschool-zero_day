@@ -1,0 +1,1 @@
+**vagrant is a tool for working on virtual environments**
