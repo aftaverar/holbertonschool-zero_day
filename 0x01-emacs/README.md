@@ -1,0 +1,1 @@
+**Emacs is a extensible, customizable, self-documenting real-time display editor**
